@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4603
+
+launch your Emacs Client from vim, and capture a file or store link with org mode.
+
+Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
+
+http://orgmode.org/
+
+key map:
+
+<A-n> : capture a file
+
+<A-l> : store a link
+
